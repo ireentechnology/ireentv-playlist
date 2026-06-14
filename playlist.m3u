@@ -10,6 +10,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="SPORTS", TyC Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="SPORTS", Bioscope Live
+https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="SPORTS", ESPN
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
 
