@@ -7,6 +7,12 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports 1 Max 🇫🇷 🇶🇦
+https://no-red.pages.dev/liveop2.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Tapmad Live
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="SPORTS", TyC Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
@@ -18,9 +24,6 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports 1 Max 🇫🇷 🇶🇦
-https://no-red.pages.dev/liveop2.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Win Sports 🇧🇷
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
